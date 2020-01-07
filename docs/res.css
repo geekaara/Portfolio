@@ -1,0 +1,17 @@
+body{
+    background-color: #EEEEEE;
+  }
+  #header{
+    background-color: #66CCFF;
+    text-align: center;
+  }
+  #container{
+    background-color: white;
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  #mail{
+    background-color: #E5E4E2;
+    text-align: center;
+  }

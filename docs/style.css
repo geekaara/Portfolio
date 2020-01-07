@@ -1,0 +1,61 @@
+body, html {
+    height: 100%;
+  }
+  body{
+      margin: 0;
+      padding: 0;
+      text-align: center;
+      background: url(aaray.png);
+      height: 100%;
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+      font-family: sans-serif;
+  }
+  .contact-title{
+      margin-top: 100px;
+      color: #fff;
+      text-transform: uppercase;
+      transition: all 4s ease-in-out;
+  }
+  .contact-title h1{
+      font-size: 45px;
+      line-height: 10px;
+  }
+  .contact-title h2{
+      font-size: 25px;
+  }
+  
+  .button{
+      margin: 50px;
+      transition: all 4s ease-in-out;
+  }
+  .form-control{
+      width: 600px;
+      background: transparent;
+      border: none;
+      outline: none;
+      border-bottom: 1px solid #fff;
+      color: #fff;
+      font-size: 18px;
+      margin-bottom: 16px;
+  }
+  
+  input{
+      height: 45px;
+  }
+  
+  
+  
+  .button {
+    border: none;
+    background-color: #FFC0CB;
+    color: #1E69D0;
+    padding: 12px 28px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 22px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
